@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skill Set
+
+### Programming Languages
+- *Python*
+- App*leS*cript
+- Ja**vaSc**ript
+
+### Design Applications
+- __InDesign__
+- **Photoshop**
+- Ill**ustra**tor
